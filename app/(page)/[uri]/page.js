@@ -62,7 +62,7 @@ export default async function UserPage({ params }) {
   return (
     <div className=" text-white min-h-screen pb-12">
       <div
-        className="h-36 bg-gray-300 bg-cover bg-center"
+        className="h-60 bg-gray-300 bg-cover bg-center"
         style={
           page.bgType === "color"
             ? { backgroundColor: page.bgColor }
@@ -149,7 +149,7 @@ export default async function UserPage({ params }) {
       </div>
 
      
-      <div className="text-center my-8">
+      <div className="text-center my-6">
         <Link
           href="/account"
           className="bg-indigo-800 hover:bg-indigo-900 text-gray-300 font-semibold py-2 px-6 rounded-md inline-block"
