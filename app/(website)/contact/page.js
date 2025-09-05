@@ -21,11 +21,11 @@ export default function ContactPage() {
           </div>
           <div className="flex items-center gap-4">
             <FontAwesomeIcon icon={faEnvelope} className="text-2xl text-green-500" />
-            <span>support@linktree.com</span>
+            <span>sayankoner744@gmail.com</span>
           </div>
           <div className="flex items-center gap-4">
             <FontAwesomeIcon icon={faPhone} className="text-2xl text-green-500" />
-            <span>+91 12345 67890</span>
+            <span>+91 XXXXXXXXXX</span>
           </div>
         </div>
 

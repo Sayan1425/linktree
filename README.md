@@ -19,9 +19,9 @@ A full-stack, responsive "link-in-bio" platform inspired by Linktree. Built with
 
 ## ✨ Live Demo
 
-**(Add your deployment link here once you host it online)**
+[Link to Live Demo] - https://linktree-six-beryl.vercel.app/
 
-[Link to Live Demo](https://your-live-demo-url.com)
+Give feedback using "contact us" on site. 
 
 ---
 
